@@ -1,7 +1,13 @@
-<p align="center" style="color: red; font-weight: bold;">
-This archive repository is a snapshot of the Changesets on 3 December 2021.<br/><br/>
-The project has been moved to <a href="https://github.com/changesets/changesets" target="_blank">Changesets Org</a> and the version here is no longer maintained.
-</p>
+
+# Changesets Archived
+
+This archive repository is a snapshot of the Changesets on 3 December 2021.
+
+
+The project has been moved to [Changesets Org](https://github.com/changesets/changesets) and the version here is no longer maintained.
+
+
+---
 
 <p align="center">
   <img src="./assets/images/changesets-banner-light.png" />
