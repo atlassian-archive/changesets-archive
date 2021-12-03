@@ -1,5 +1,5 @@
 
-# Changesets Archived
+# Changesets Archive
 
 This archive repository is a snapshot of the Changesets on 3 December 2021.
 
